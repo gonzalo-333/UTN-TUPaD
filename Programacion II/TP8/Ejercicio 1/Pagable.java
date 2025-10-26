@@ -1,0 +1,4 @@
+
+interface Pagable {
+    double calcularTotal();
+}
